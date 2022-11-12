@@ -1,0 +1,1 @@
+This is just a sample file used to learning Git/GitHub on Windows
