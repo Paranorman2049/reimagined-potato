@@ -1,0 +1,4 @@
+surname;firstname;othername
+John;Wick;Alexander
+Johnson;Maxwell;Aboo
+Alexander;Fitch;Bobo
